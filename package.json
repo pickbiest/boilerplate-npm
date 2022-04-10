@@ -1,5 +1,13 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "pickbiest",
+	"description": "A project to practice freecodecamps 'Back End Development and APIs' course",
+	"keywords": [
+		"freecodecamp",
+		" test project"
+	],
+  "license": "MIT",
+  "version": "0.1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -9,6 +17,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/pickbiest/boilerplate-npm.git"
 	}
 }
